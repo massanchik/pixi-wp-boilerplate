@@ -1,0 +1,19 @@
+{
+  "name": "manager",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pixi.js": "pixi#^4.0.0"
+  }
+}
